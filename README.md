@@ -1,1 +1,1 @@
-# -NYTArticleSearch-github.io
+# NYTArticleSearch-github.io
